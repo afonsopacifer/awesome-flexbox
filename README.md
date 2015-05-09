@@ -38,9 +38,9 @@
 * [Sass flex mixin](https://github.com/mastastealth/sass-flex-mixin)
 
 ##Cross Browser
+* [Flexie](https://github.com/doctyper/flexie):metal:
 * [Are We Ready to Use Flexbox?](http://www.sitepoint.com/are-we-ready-to-use-flexbox/)
 * [Advanced Cross-Browser Flexbox](http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/)
-* [Reflexie](https://github.com/doctyper/reflexie)
 * [Caniuse](http://caniuse.com/flexbox)
 * [Normalizing Cross-browser Flexbox Bugs](http://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/)
 * [Using Flexbox: Mixing Old and New for the Best Browser Support](https://css-tricks.com/using-flexbox/)
