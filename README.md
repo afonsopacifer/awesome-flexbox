@@ -84,7 +84,10 @@
 * [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox):metal:
 
 ##Who to Follow
+* Brad Frost [@brad_frost](https://twitter.com/brad_frost)
+* Lea Verou [@LeaVerou](https://twitter.com/leaverou)
 * Mickley Gillenwater [@zomigi](https://twitter.com/zomigi)
+* Philip Walton [@philwalton](https://twitter.com/philwalton)
 
 ##Licence
 [MIT Licence](licence.md) © Afonso Pacifer
