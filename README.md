@@ -63,6 +63,7 @@
 * [Building responsive layouts presentation](http://zomigi.com/blog/responsive-layouts-css-dev-conf/)
 * [CSS3 layout](http://zomigi.com/blog/css3-layout/)
 * [Flexbox](http://zomigi.com/blog/flexbox-presentation/)
+* [Flexbox to the people](http://www.slideshare.net/diegoeis/flexbox-to-the-people)
 * [Future css layout fowd](http://zomigi.com/blog/future-css-layout-fowd/)
 * [Leveling up with flexbox](http://zomigi.com/blog/leveling-up-with-flexbox/)
 * [RWD flexbox](http://zomigi.com/blog/rwd-flexbox/)
