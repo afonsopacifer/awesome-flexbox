@@ -22,9 +22,11 @@
 * [Licence](#licence)
 
 ##W3C Specification
+*The specification describes a CSS box model optimized for user interface design.*
 * [CSS Flexible Box Layout Module Level 1](http://www.w3.org/TR/css3-flexbox/)
 
 ##Guides
+*Guides for developers or designer start their studies this wonderful technology.*
 * [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/):metal:
 * [A visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * [Dive into flexbox](http://bocoup.com/weblog/dive-into-flexbox/)
@@ -36,6 +38,7 @@
 * [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
 
 ##Cross Browser
+*Tips and tricks for your projects work anywhere :D*
 ####Articles
 * [Advanced cross-browser flexbox](http://dev.opera.com/articles/view/advanced-cross-browser-flexbox/)
 * [Are we ready to use flexbox?](http://www.sitepoint.com/are-we-ready-to-use-flexbox/)
@@ -52,11 +55,13 @@
 * [Flexie](https://github.com/doctyper/flexie):metal:
 
 ##Other Interesting Articles
+*A list of issues related to flexbox.*
 * [Designing CSS layouts with flexbox is as easy as pie](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
 * [Old flexbox and new flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
 * [Using flexbox today](https://chriswrightdesign.com/experiments/using-flexbox-today/)
 
 ##Presentations
+*Tired of reading? See an interactive presentation and learn flexbox now.*
 ####Videos
 * [Leveling up with flexbox](https://vimeo.com/96406277)
 
@@ -70,6 +75,7 @@
 * [RWD flexbox](http://zomigi.com/blog/rwd-flexbox/)
 
 ##Tools
+*Have a little help to create their projects :D*
 * [CSS flexbox please](http://demo.agektmr.com/flexbox/)
 * [Fibonacci](https://github.com/maxsteenbergen/Fibonacci)
 * [Flexbox in 5 minutes](http://flexboxin5.com/)
@@ -78,14 +84,17 @@
 * [Flexyboxes](http://the-echoplex.net/flexyboxes/)
 
 ##Libraries and Frameworks
+*A list of incredible libraries based on flexbox.*
 * [Bem grid](https://github.com/bem-incubator/bem-grid)
 * [Flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid):metal:
 
 ##Featured Projects
+*awesome projects about flexbox.*
 * [Flexbugs](https://github.com/philipwalton/flexbugs):metal:
 * [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox):metal:
 
 ##Who to Follow
+*People who talk about it.*
 * Brad Frost [@brad_frost](https://twitter.com/brad_frost)
 * Lea Verou [@LeaVerou](https://twitter.com/leaverou)
 * Mickley Gillenwater [@zomigi](https://twitter.com/zomigi)
