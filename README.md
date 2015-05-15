@@ -18,6 +18,7 @@
 * [Libraries and Frameworks](#libraries-and-frameworks)
 * [Featured Projects](#featured-projects)
 * [Who to Follow](#who-to-follow)
+* [Contributing](#contributing)
 * [Licence](#licence)
 
 ##W3C Specification
@@ -89,6 +90,9 @@
 * Lea Verou [@LeaVerou](https://twitter.com/leaverou)
 * Mickley Gillenwater [@zomigi](https://twitter.com/zomigi)
 * Philip Walton [@philwalton](https://twitter.com/philwalton)
+
+##Contributing
+Want to contribute? [Follow these recommendations](contributing.md).
 
 ##Licence
 [MIT Licence](licence.md) © Afonso Pacifer
