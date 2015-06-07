@@ -91,6 +91,7 @@
 
 ##Featured Projects
 *Awesome projects about flexbox.*
+* [Cool examples of flexbox layout](http://codepen.io/collection/KegmA/) - A codepen a collection.
 * [flex-box](https://github.com/potch/flex-box) - A Custom Element to make the basics of flexbox easier to use.
 * [Flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
 * [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal:
