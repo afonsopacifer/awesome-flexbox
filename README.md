@@ -51,6 +51,7 @@
 
 ####Preprocessors in action
 * [Sass flex mixin](https://github.com/mastastealth/sass-flex-mixin)
+* [Stylus flex mixin](https://github.com/differui/stylus-flex-mixin)
 
 ####Polyfills
 * [Flexie](https://github.com/doctyper/flexie):metal:
