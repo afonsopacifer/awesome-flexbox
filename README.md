@@ -55,6 +55,7 @@
 
 ####Polyfills
 * [Flexie](https://github.com/doctyper/flexie):metal:
+* [Reflexie](https://github.com/doctyper/reflexie):metal:
 
 ##Other Interesting Articles
 *A list of issues related to flexbox.*
