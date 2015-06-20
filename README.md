@@ -105,6 +105,7 @@
 * Lea Verou [@LeaVerou](https://twitter.com/leaverou)
 * Mickley Gillenwater [@zomigi](https://twitter.com/zomigi)
 * Philip Walton [@philwalton](https://twitter.com/philwalton)
+* Richard Herrera [@doctyper](https://twitter.com/doctyper)
 
 ##Contributing
 Want to contribute? [Follow these recommendations](contributing.md).
