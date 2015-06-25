@@ -70,6 +70,7 @@
 ##Presentations
 *Tired of reading? See an interactive presentation and learn flexbox now.*
 ####Videos
+* [CSS Flexbox Video Series](http://wesbos.com/flexbox-basics/) - This video series will simplify things, discover the ins and outs of flexbox.
 * [CSS Layout o ontem, o hoje e o depois (pt-br)](https://www.youtube.com/watch?v=MjK1MCjqmpU&list=PLnjYA3TxpDpgWE9cXwT5H7wEsG6ql-Q59&index=15)
 * [Leveling up with flexbox](https://vimeo.com/96406277)
 
