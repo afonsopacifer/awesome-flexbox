@@ -107,10 +107,12 @@
 
 ##Who to Follow
 *People who talk about it.*
+* Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
 * Brad Frost [@brad_frost](https://twitter.com/brad_frost)
 * Lea Verou [@LeaVerou](https://twitter.com/leaverou)
 * Mickley Gillenwater [@zomigi](https://twitter.com/zomigi)
 * Philip Walton [@philwalton](https://twitter.com/philwalton)
+* Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 * Richard Herrera [@doctyper](https://twitter.com/doctyper)
 
 ##Contributing
