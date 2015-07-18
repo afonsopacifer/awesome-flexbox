@@ -77,6 +77,7 @@
 * [Leveling up with flexbox](https://vimeo.com/96406277)
 
 ####Slides and Notes
+* [CSS Flexbox: Estruturando layouts sem gambiarras (pr-br)](https://speakerdeck.com/afonsopacifer/flexbox)
 * [Building responsive layouts presentation](http://zomigi.com/blog/responsive-layouts-css-dev-conf/)
 * [CSS3 layout](http://zomigi.com/blog/css3-layout/)
 * [Flexbox](http://zomigi.com/blog/flexbox-presentation/)
