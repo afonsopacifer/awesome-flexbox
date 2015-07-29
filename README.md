@@ -70,12 +70,12 @@
 ##Presentations
 *Tired of reading? See an interactive presentation and learn flexbox now.*
 ####Videos
-* [CSS Flexbox Video Series](http://wesbos.com/flexbox-basics/) - This video series will simplify things, discover the ins and outs of flexbox.
 * [CSS Layout o ontem, o hoje e o depois (pt-br)](https://www.youtube.com/watch?v=MjK1MCjqmpU&list=PLnjYA3TxpDpgWE9cXwT5H7wEsG6ql-Q59&index=15)
 * [Exploring CSS Layout Techniques While Trying To Get a Subtitle to Wrap](https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/)
 * [Flexbox - CSS Day](https://vimeo.com/131664957)
 * [Guía Completa de Flexbox desde 0 (ESP)](https://www.youtube.com/watch?v=F-KCncXMPk0)
 * [Leveling up with flexbox](https://vimeo.com/96406277)
+* [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master CSS Flexbox
 
 ####Slides and Notes
 * [CSS Flexbox: Estruturando layouts sem gambiarras (pr-br)](https://speakerdeck.com/afonsopacifer/flexbox)
