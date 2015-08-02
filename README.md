@@ -33,6 +33,7 @@
 *Guides for developers or designer start their studies this wonderful technology.*
 * [A guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/):metal:
 * [A visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+* [flexbox (pt-br)](http://desenvolvimentoparaweb.com/css/flexbox/)
 * [Dive into flexbox](http://bocoup.com/weblog/dive-into-flexbox/)
 * [Learn layout - flexbox (pt-br)](http://pt-br.learnlayout.com/flexbox.html)
 * [Learn layout - flexbox](http://learnlayout.com/flexbox.html)
