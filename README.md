@@ -6,6 +6,7 @@
 
 ##Table of Contents
 * [W3C Specification](#w3c-specification)
+* [Newsletter](#newsletter)
 * [Books](#books)
 * [Guides](#guides)
 * [Cross Browser](#cross-browser)
@@ -27,6 +28,10 @@
 ##W3C Specification
 *The specification describes a CSS box model optimized for user interface design.*
 * [CSS Flexible Box Layout Module Level 1](http://www.w3.org/TR/css3-flexbox/)
+
+##Newsletter
+* [CSS Layout News](http://csslayout.news/)
+* [CSS Weekly](http://css-weekly.com/)
 
 ##Books
 * [CSS3 Layout Modules 2nd Edition - Rachel Andrew](http://rachelandrew.co.uk/books/css3-layout-modules)
