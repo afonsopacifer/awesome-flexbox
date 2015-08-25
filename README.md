@@ -43,7 +43,8 @@
 * [Responsive design of the future with flexbox](http://blog.teamtreehouse.com/responsive-design-of-the-future-with-flexbox)
 * [Usando caixas flexiveis CSS (pt-br)](https://developer.mozilla.org/pt-BR/docs/CSS/Usando_caixas_flexiveis_css)
 * [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
-
+* [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
+* 
 ##Cross Browser
 *Tips and tricks for your projects work anywhere :D*
 ####Articles
