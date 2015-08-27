@@ -1,4 +1,4 @@
-Copyright (c) 2014 Afonso Pacifer, [afonsopacifer.com.br](http://afonsopacifer.com.br/)
+Copyright (c) 2014 Afonso Pacifer, [afonsopacifer.com](http://afonsopacifer.com/)
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
