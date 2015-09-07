@@ -49,9 +49,10 @@
 * [Usando caixas flexiveis CSS (pt-br)](https://developer.mozilla.org/pt-BR/docs/CSS/Usando_caixas_flexiveis_css)
 * [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
 * [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
-* 
+
 ##Cross Browser
 *Tips and tricks for your projects work anywhere :D*
+
 ####Articles
 * [Advanced cross-browser flexbox](https://dev.opera.com/articles/advanced-cross-browser-flexbox/)
 * [Are we ready to use flexbox?](http://www.sitepoint.com/are-we-ready-to-use-flexbox/)
