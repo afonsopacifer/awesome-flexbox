@@ -59,6 +59,7 @@
 * [Normalizando bugs no flexbox em diversos navegadores (pt-br)](http://imasters.com.br/front-end/css/normalizando-bugs-no-flexbox-em-diversos-navegadores/?trace=1519021197&source=single)
 * [Normalizing cross-browser Flexbox bugs](http://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/)
 * [Using flexbox: mixing old and new for the best browser support](https://css-tricks.com/using-flexbox/)
+* [Using Modernizr with Flexbox](http://zomigi.com/blog/using-modernizr-with-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_8)
 
 ####Support
 * [Caniuse](http://caniuse.com/flexbox)
