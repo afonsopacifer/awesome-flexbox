@@ -97,6 +97,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Future css layout fowd](http://zomigi.com/blog/future-css-layout-fowd/)
 * [Leveling up with flexbox](http://zomigi.com/blog/leveling-up-with-flexbox/)
 * [RWD flexbox](http://zomigi.com/blog/rwd-flexbox/)
+* [Flexbox and Grid Layout](http://pt.slideshare.net/diegoeis/flexbox-to-the-people)
 
 ## Tools
 *Have a little help to create their projects :D*
