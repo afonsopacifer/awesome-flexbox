@@ -90,14 +90,14 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master CSS Flexbox
 
 #### Slides and Notes
-* [CSS Flexbox: Estruturando layouts sem gambiarras (pr-br)](https://speakerdeck.com/afonsopacifer/flexbox)
 * [Building responsive layouts presentation](http://zomigi.com/blog/responsive-layouts-css-dev-conf/)
+* [CSS Flexbox: Estruturando layouts sem gambiarras (pr-br)](https://speakerdeck.com/afonsopacifer/flexbox)
 * [CSS3 layout](http://zomigi.com/blog/css3-layout/)
 * [Flexbox](http://zomigi.com/blog/flexbox-presentation/)
+* [Flexbox and Grid Layout](http://pt.slideshare.net/diegoeis/flexbox-to-the-people)
 * [Future css layout fowd](http://zomigi.com/blog/future-css-layout-fowd/)
 * [Leveling up with flexbox](http://zomigi.com/blog/leveling-up-with-flexbox/)
 * [RWD flexbox](http://zomigi.com/blog/rwd-flexbox/)
-* [Flexbox and Grid Layout](http://pt.slideshare.net/diegoeis/flexbox-to-the-people)
 
 ## Tools
 *Have a little help to create their projects :D*
