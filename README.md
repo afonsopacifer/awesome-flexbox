@@ -88,6 +88,8 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Guía Completa de Flexbox desde 0 (ESP)](https://www.youtube.com/watch?v=F-KCncXMPk0)
 * [Leveling up with flexbox](https://vimeo.com/96406277)
 * [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master CSS Flexbox
+* [CSS FlexBox Essentials](https://www.youtube.com/watch?v=G7EIAgfkhmg)
+* [CSS FlexBox Practical Examples (Rebuilding Dribbble.com using FlexBox)](https://www.youtube.com/watch?v=H1lREysgdgc)
 
 #### Slides and Notes
 * [Building responsive layouts presentation](http://zomigi.com/blog/responsive-layouts-css-dev-conf/)
