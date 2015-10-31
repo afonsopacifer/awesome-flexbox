@@ -86,6 +86,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [CSS FlexBox Essentials](https://www.youtube.com/watch?v=G7EIAgfkhmg)
 * [CSS FlexBox Practical Examples (Rebuilding Dribbble.com using FlexBox)](https://www.youtube.com/watch?v=H1lREysgdgc)
 * [Exploring CSS Layout Techniques While Trying To Get a Subtitle to Wrap](https://css-tricks.com/video-screencasts/140-exploring-css-layout-techniques-while-trying-to-get-a-subtitle-to-wrap/)
+* [Enhancing Responsiveness With Flexbox](https://www.youtube.com/watch?v=_98SE8WUvLk)
 * [Flexbox - CSS Day](https://vimeo.com/131664957)
 * [Guía Completa de Flexbox desde 0 (ESP)](https://www.youtube.com/watch?v=F-KCncXMPk0)
 * [Leveling up with flexbox](https://vimeo.com/96406277)
