@@ -1,4 +1,4 @@
-![awesome flexbox](awesome-flexbox.jpg)
+[![awesome flexbox](awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -142,7 +142,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * Richard Herrera [@doctyper](https://twitter.com/doctyper)
 
 ## Contributing
-Want to contribute? [Follow these recommendations](contributing.md).
+Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md).
 
 ## Licence
-[MIT Licence](licence.md) © Afonso Pacifer
+[MIT Licence](https://github.com/afonsopacifer/awesome-flexbox/blob/master/licence.md) © [Afonso Pacifer](http://afonsopacifer.com/)
