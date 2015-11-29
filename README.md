@@ -22,6 +22,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Tools](#tools)
 * [Libraries and Frameworks](#libraries-and-frameworks)
 * [Featured Projects](#featured-projects)
+* [Courses](#courses)
 * [Who to Follow](#who-to-follow)
 * [Contributing](#contributing)
 * [Licence](#licence)
@@ -130,6 +131,9 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal:
 * [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_6) - A neat little CodePen Demo to play around with Flex properties.
 * [ZEEF CSS Flexbox](https://css-flexbox.zeef.com/afonso.pacifer) - The awesome flexbox on zeef.:metal:
+
+## Courses
+* [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout?utm_source=Responsive+Design+Weekly&utm_campaign=e4dbc18ebc-Responsive_Design_Weekly_184&utm_medium=email&utm_term=0_df65b6d7c8-e4dbc18ebc-59080665&goal=0_df65b6d7c8-e4dbc18ebc-59080665) - treehouse
 
 ## Who to Follow
 *People who talk about it.*
