@@ -71,14 +71,16 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Stylus flex mixin](https://github.com/differui/stylus-flex-mixin)
 
 #### Polyfills
-* [Flexie](https://github.com/doctyper/flexie):metal:
-* [Reflexie](https://github.com/doctyper/reflexie):metal:
+* [Flexibility](https://github.com/10up/flexibility):metal:
+* [Flexie](https://github.com/doctyper/flexie)
+* [Reflexie](https://github.com/doctyper/reflexie)
 
 ## Other Interesting Articles
 *A list of issues related to flexbox.*
 * [Designing CSS layouts with flexbox is as easy as pie](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/)
 * [Flexbox For Interfaces All The Way: Tracks Case Study](http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/?utm_source=html5weekly&utm_medium=email)
 * [Flexbox’s Best-Kept Secret](https://medium.com/@samserif/flexbox-s-best-kept-secret-bd3d892826b6#.i0v3krqo0)
+* [Grid, Flexbox, Box Alignment: Our New System for Layout](https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_20)
 * [Old flexbox and new flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
 * [Using flexbox today](https://chriswrightdesign.com/experiments/using-flexbox-today/)
 
@@ -113,6 +115,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexbox playground](http://flexiejs.com/playground/)
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Flexyboxes](http://the-echoplex.net/flexyboxes/)
+* [Test CSS Flexbox Rules Live](http://flexbox.help/)
 
 ## Libraries and Frameworks
 *A list of incredible libraries based on flexbox.*
