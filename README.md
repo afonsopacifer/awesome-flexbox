@@ -112,7 +112,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 *Have a little help to create their projects :D*
 * [CSS flexbox please](http://demo.agektmr.com/flexbox/)
 * [Fibonacci](https://github.com/maxsteenbergen/Fibonacci)
-* [Flexbox in 5 minutes](http://flexboxin5.com/)
+* [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
 * [Flexbox playground](http://flexiejs.com/playground/)
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Flexyboxes](http://the-echoplex.net/flexyboxes/)
