@@ -112,8 +112,8 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 ## Tools
 *Have a little help to create their projects :D*
 * [CSS flexbox please](http://demo.agektmr.com/flexbox/)
-* [CSS Flexbox snippets for Sublime Text 2/3](https://github.com/brenopolanski/css-flexbox-sublime-snippets)
 * [CSS Flexbox snippets for Atom](https://github.com/brenopolanski/css-flexbox-atom-snippets)
+* [CSS Flexbox snippets for Sublime Text 2/3](https://github.com/brenopolanski/css-flexbox-sublime-snippets)
 * [Fibonacci](https://github.com/maxsteenbergen/Fibonacci)
 * [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
 * [Flexbox playground](http://flexiejs.com/playground/)
