@@ -69,6 +69,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Caniuse](http://caniuse.com/flexbox)
 
 #### Preprocessors in action
+* [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
 * [Sass flex mixin](https://github.com/mastastealth/sass-flex-mixin)
 * [Stylus flex mixin](https://github.com/differui/stylus-flex-mixin)
 
