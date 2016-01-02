@@ -161,5 +161,5 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md).
 
-## Licence
-[MIT Licence](https://github.com/afonsopacifer/awesome-flexbox/blob/master/licence.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+## License
+[MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](http://afonsopacifer.com/)
