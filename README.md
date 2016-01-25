@@ -60,6 +60,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 #### Articles
 * [Advanced cross-browser flexbox](https://dev.opera.com/articles/advanced-cross-browser-flexbox/)
 * [Are we ready to use flexbox?](http://www.sitepoint.com/are-we-ready-to-use-flexbox/)
+* [Designing A Product Page Layout with Flexbox](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/)
 * [Normalizando bugs no flexbox em diversos navegadores (pt-br)](http://imasters.com.br/front-end/css/normalizando-bugs-no-flexbox-em-diversos-navegadores/?trace=1519021197&source=single)
 * [Normalizing cross-browser Flexbox bugs](http://philipwalton.com/articles/normalizing-cross-browser-flexbox-bugs/)
 * [Using flexbox: mixing old and new for the best browser support](https://css-tricks.com/using-flexbox/)
