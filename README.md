@@ -130,6 +130,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid):metal:
 * [Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/):metal:
 * [Flexbox Grid for Stylus](http://stylusgrid.com)
+* [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 
 ## Featured Projects
 *Awesome projects about flexbox.*
