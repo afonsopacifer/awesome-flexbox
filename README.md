@@ -49,6 +49,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Learn layout - flexbox](http://learnlayout.com/flexbox.html)
 * [Reference of flexbox](http://tympanus.net/codrops/css_reference/flexbox/)
 * [Responsive design of the future with flexbox](http://blog.teamtreehouse.com/responsive-design-of-the-future-with-flexbox)
+* [The Flexbox Reading List: Techniques and Tools](https://www.smashingmagazine.com/author/cosima-mielke/)
 * [Um guia visual para Flexbox (pt-br)](http://edsonjunior.com/um-guia-visual-para-flexbox/)
 * [Usando caixas flexiveis CSS (pt-br)](https://developer.mozilla.org/pt-BR/docs/CSS/Usando_caixas_flexiveis_css)
 * [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
