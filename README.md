@@ -35,6 +35,9 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 ## Newsletter
 * [CSS Layout News](http://csslayout.news/)
 * [CSS Weekly](http://css-weekly.com/)
+* (Responsive Design Weekly)[http://responsivedesignweekly.com/)
+* (Web Design Weekly)[https://web-design-weekly.com/)
+
 
 ## Books
 * [CSS3 Layout Modules 2nd Edition - Rachel Andrew](http://rachelandrew.co.uk/books/css3-layout-modules)
