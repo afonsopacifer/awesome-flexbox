@@ -35,8 +35,8 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 ## Newsletter
 * [CSS Layout News](http://csslayout.news/)
 * [CSS Weekly](http://css-weekly.com/)
-* (Responsive Design Weekly)[http://responsivedesignweekly.com/)
-* (Web Design Weekly)[https://web-design-weekly.com/)
+* [Responsive Design Weekly](http://responsivedesignweekly.com/)
+* [Web Design Weekly](https://web-design-weekly.com/)
 
 
 ## Books
@@ -63,6 +63,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 *Tips and tricks for your projects work anywhere :D*
 
 #### Articles
+* [6 Reasons to Start Using Flexbox](http://bitsofco.de/6-reasons-to-start-using-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_31)
 * [Advanced cross-browser flexbox](https://dev.opera.com/articles/advanced-cross-browser-flexbox/)
 * [Are we ready to use flexbox?](http://www.sitepoint.com/are-we-ready-to-use-flexbox/)
 * [Designing A Product Page Layout with Flexbox](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/)
