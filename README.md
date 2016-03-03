@@ -141,6 +141,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 ## Featured Projects
 *Awesome projects about flexbox.*
 * [Cool examples of flexbox layout](http://codepen.io/collection/KegmA/) - A codepen a collection.
+* [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 * [flex-box](https://github.com/potch/flex-box) - A Custom Element to make the basics of flexbox easier to use.
 * [Flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
 * [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
