@@ -137,6 +137,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/):metal:
 * [Flexbox Grid for Stylus](http://stylusgrid.com)
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
+* [Milligram](http://milligram.github.io/) - A minimalist CSS framework
 
 ## Featured Projects
 *Awesome projects about flexbox.*
