@@ -107,6 +107,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Enhancing Responsiveness With Flexbox](https://www.youtube.com/watch?v=_98SE8WUvLk)
 * [Flexbox - CSS Day](https://vimeo.com/131664957)
 * [Guía Completa de Flexbox desde 0 (ESP)](https://www.youtube.com/watch?v=F-KCncXMPk0)
+* [HTML5. Desenvolvimento avançado](https://www.youtube.com/watch?v=b9ZrOdTFkNk)
 * [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_34)
 * [Leveling up with flexbox](https://vimeo.com/96406277)
 * [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master CSS Flexbox
