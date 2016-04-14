@@ -96,6 +96,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Grid, Flexbox, Box Alignment: Our New System for Layout](https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_20)
 * [Old flexbox and new flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
 * [Using flexbox today](https://chriswrightdesign.com/experiments/using-flexbox-today/)
+* [Laying Out A Flexible Future For Web Design With Flexbox](https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/)
 
 ## Presentations
 *Tired of reading? See an interactive presentation and learn flexbox now.*
