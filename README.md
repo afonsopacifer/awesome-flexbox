@@ -96,6 +96,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Grid, Flexbox, Box Alignment: Our New System for Layout](https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_20)
 * [Old flexbox and new flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
 * [Using flexbox today](https://chriswrightdesign.com/experiments/using-flexbox-today/)
+* [Laying Out A Flexible Future For Web Design With Flexbox](https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/)
 
 ## Presentations
 *Tired of reading? See an interactive presentation and learn flexbox now.*
@@ -111,7 +112,8 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [HTML5. Desenvolvimento avançado](https://www.youtube.com/watch?v=b9ZrOdTFkNk)
 * [Introduction to Flexbox](https://mijingo.com/lessons/guide-to-flexbox/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_34)
 * [Leveling up with flexbox](https://vimeo.com/96406277)
-* [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master CSS Flexbox
+* [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master
+* [Flexbox Fundamentals](https://egghead.io/lessons/misc-flexbox-fundamentals)
 
 #### Slides and Notes
 * [Building responsive layouts presentation](http://zomigi.com/blog/responsive-layouts-css-dev-conf/)
