@@ -58,6 +58,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Using CSS flexible boxes](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Flexible_boxes)
 * [What IS Flexbox?](https://medium.com/@spaceninja/what-is-flexbox-6aed968555ef)
 * [Desarrollo de aplicaciones web Flexibles (es-es)](http://nucliweb.github.io/flexbox/)
+* [Webflow Flexbox](https://flexbox.webflow.com/)
 
 ## Cross Browser
 *Tips and tricks for your projects work anywhere :D*
