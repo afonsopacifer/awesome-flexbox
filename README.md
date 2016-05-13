@@ -124,6 +124,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Future css layout fowd](http://zomigi.com/blog/future-css-layout-fowd/)
 * [Leveling up with flexbox](http://zomigi.com/blog/leveling-up-with-flexbox/)
 * [RWD flexbox](http://zomigi.com/blog/rwd-flexbox/)
+* [CSS Layout: from Table to Flexbox](https://speakerdeck.com/diogomoretti/css-layout-from-table-to-flexbox)
 
 ## Tools
 *Have a little help to create their projects :D*
