@@ -114,6 +114,14 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Leveling up with flexbox](https://vimeo.com/96406277)
 * [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master
 * [Flexbox Fundamentals](https://egghead.io/lessons/misc-flexbox-fundamentals)
+
+
+### [Sketching with CSS](http://www.sketchingwithcss.com) Flexbox Guide by [@sfioritto](https://github.com/sfioritto)
+
+#### Read Materials
+* [Access 20+ Page Guide on Flexbox](http://www.sketchingwithcss.com/flexbox-tutorial/)
+
+#### Video Materials
 * [Flex-Container Pt. 1: Position Items within a flexbox container](http://www.sketchingwithcss.com/flex-container)
 * [Flex-Container Pt. 2: Rows and Columns](http://www.sketchingwithcss.com/flex-container-2/)
 * [Grow and Shrink Flex Items](http://www.sketchingwithcss.com/grow-shrink/)
@@ -171,7 +179,6 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Courses
 * [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout?utm_source=Responsive+Design+Weekly&utm_campaign=e4dbc18ebc-Responsive_Design_Weekly_184&utm_medium=email&utm_term=0_df65b6d7c8-e4dbc18ebc-59080665&goal=0_df65b6d7c8-e4dbc18ebc-59080665) - treehouse
-* [Sketching with CSS Flexbox Tutorial](http://www.sketchingwithcss.com/flexbox-tutorial/)
 
 ## Who to Follow
 *People who talk about it.*
