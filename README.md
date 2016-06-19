@@ -115,6 +115,18 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [What the flexbox?](http://flexbox.io) - A simple 20 video course that will help you master
 * [Flexbox Fundamentals](https://egghead.io/lessons/misc-flexbox-fundamentals)
 
+
+### [Sketching with CSS](http://www.sketchingwithcss.com) Flexbox Guide by [@sfioritto](https://github.com/sfioritto)
+
+#### Read Materials
+* [Access 20+ Page Guide on Flexbox](http://www.sketchingwithcss.com/flexbox-tutorial/)
+
+#### Video Materials
+* [Flex-Container Pt. 1: Position Items within a flexbox container](http://www.sketchingwithcss.com/flex-container)
+* [Flex-Container Pt. 2: Rows and Columns](http://www.sketchingwithcss.com/flex-container-2/)
+* [Grow and Shrink Flex Items](http://www.sketchingwithcss.com/grow-shrink/)
+* [Implementing the Sticky Footer and Holy Grail layout](http://www.sketchingwithcss.com/flex-layouts/)
+
 #### Slides and Notes
 * [Building responsive layouts presentation](http://zomigi.com/blog/responsive-layouts-css-dev-conf/)
 * [CSS Flexbox: Estruturando layouts sem gambiarras (pr-br)](https://speakerdeck.com/afonsopacifer/flexbox)
@@ -180,6 +192,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 * Richard Herrera [@doctyper](https://twitter.com/doctyper)
 * Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+* Sean Fioritto [@sfioritto](https://twitter.com/sfioritto)
 
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/afonsopacifer/awesome-flexbox/blob/master/contributing.md).
