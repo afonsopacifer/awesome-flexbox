@@ -97,6 +97,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Old flexbox and new flexbox](https://css-tricks.com/old-flexbox-and-new-flexbox/)
 * [Using flexbox today](https://chriswrightdesign.com/experiments/using-flexbox-today/)
 * [Laying Out A Flexible Future For Web Design With Flexbox](https://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/)
+* [Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/)
 
 ## Presentations
 *Tired of reading? See an interactive presentation and learn flexbox now.*
