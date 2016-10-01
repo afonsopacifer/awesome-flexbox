@@ -174,6 +174,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexbox layout](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 * [Post Apocalypse Flexbox](https://github.com/afonsopacifer/post-apocalypse-flexbox)
 * [React-flexbox](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles.
+* [Reflexbox](https://github.com/jxnblk/reflexbox) - Responsive React flexbox grid system higher order component.
 * [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal:
 * [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_6) - A neat little CodePen Demo to play around with Flex properties.
 * [ZEEF CSS Flexbox](https://css-flexbox.zeef.com/afonso.pacifer) - The awesome flexbox on zeef.:metal:
