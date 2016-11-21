@@ -159,6 +159,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid):metal:
 * [Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/):metal:
 * [Flexbox Grid for Stylus](http://stylusgrid.com)
+* [Ginger Grid](https://github.com/erwstout/ginger/) - A Flexbox grid framework named after a cute dog.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 * [Milligram](http://milligram.github.io/) - A minimalist CSS framework
 
