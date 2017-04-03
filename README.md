@@ -48,6 +48,8 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [A visual guide to CSS3 flexbox properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 * [flexbox (pt-br)](http://desenvolvimentoparaweb.com/css/flexbox/)
 * [Dive into flexbox](http://bocoup.com/weblog/dive-into-flexbox/)
+* [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
+* [How Flexbox works — explained with big, colorful, animated gifs (pt-br)](https://medium.com/@lucasjs/como-o-flexbox-funciona-explicado-com-gifs-grandes-e-coloridos-26c42a0bcdc)
 * [Learn layout - flexbox (pt-br)](http://pt-br.learnlayout.com/flexbox.html)
 * [Learn layout - flexbox](http://learnlayout.com/flexbox.html)
 * [Reference of flexbox](http://tympanus.net/codrops/css_reference/flexbox/)
