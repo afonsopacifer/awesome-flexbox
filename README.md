@@ -165,6 +165,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Ginger Grid](https://github.com/erwstout/ginger/) - A Flexbox grid framework named after a cute dog.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 * [Milligram](http://milligram.github.io/) - A minimalist CSS framework
+* [RolleiFLEX](http://kaisermann.github.io/rolleiflex/) - Just a responsive flexbox grid
 * [Waffle Grid](https://lucasgruwez.github.io/waffle-grid) - An easy to use flexbox grid system
 
 ## Featured Projects
