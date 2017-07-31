@@ -158,11 +158,12 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Libraries and Frameworks
 *A list of incredible libraries based on flexbox.*
-* [Fuux](https://github.com/henriquecustodia/fuux) - Fuux is a Flexbox library that uses the same flexbox interface like classes.
+
 * [Bem grid](https://github.com/bem-incubator/bem-grid)
 * [Flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid):metal:
 * [Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/):metal:
 * [Flexbox Grid for Stylus](http://stylusgrid.com)
+* [Fuux](https://github.com/henriquecustodia/fuux) - Fuux is a Flexbox library that uses the same flexbox interface like classes.
 * [Ginger Grid](https://github.com/erwstout/ginger/) - A Flexbox grid framework named after a cute dog.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 * [Milligram](http://milligram.github.io/) - A minimalist CSS framework
