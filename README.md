@@ -154,6 +154,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Flexyboxes](http://the-echoplex.net/flexyboxes/)
 * [Test CSS Flexbox Rules Live](http://flexbox.help/)
+* [Try Flexbox](https://zyxneo.github.io/flexbox/try-flexbox)
 
 ## Libraries and Frameworks
 *A list of incredible libraries based on flexbox.*
