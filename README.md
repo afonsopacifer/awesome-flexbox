@@ -41,6 +41,8 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Books
 * [CSS3 Layout Modules 2nd Edition - Rachel Andrew](http://rachelandrew.co.uk/books/css3-layout-modules)
+* [Unraveling Flexbox - Landon Schropp](https://unravelingflexbox.com/)
+* [Flexbox in CSS - Estelle Weyl](https://www.amazon.com/Flexbox-CSS-Estelle-Weyl-ebook/dp/B072JHT5L4)
 
 ## Guides
 *Guides for developers or designer start their studies this wonderful technology.*
