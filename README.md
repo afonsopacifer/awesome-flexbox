@@ -192,6 +192,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 ## Courses
 * [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout?utm_source=Responsive+Design+Weekly&utm_campaign=e4dbc18ebc-Responsive_Design_Weekly_184&utm_medium=email&utm_term=0_df65b6d7c8-e4dbc18ebc-59080665&goal=0_df65b6d7c8-e4dbc18ebc-59080665) - treehouse
+* [Flexbox video tutorial](https://flexbox.io/) - Free video course by Wes Bos to learn flexbox (FREE).
 
 ## Who to Follow
 *People who talk about it.*
