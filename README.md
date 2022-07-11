@@ -150,6 +150,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Fibonacci](https://github.com/maxsteenbergen/Fibonacci)
 * [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
 * [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
+* [Flexbox playground Codepen](https://codepen.io/enxaneta/pen/adLPwv)
 * [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Flexyboxes](http://the-echoplex.net/flexyboxes/)
